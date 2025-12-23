@@ -19,7 +19,7 @@
     **FAA NOTAM Developer Portal UI Fix** – Addressed critical UI issues for the U.S. Federal Aviation Administration's pilot notice portal, ensuring clarity and reliability.
 *   **[`1st-Angular10-FAA NOTAM Notice to Airmen Developer Portal UI Prototype.png`](./1st-Angular10-FAA%20NOTAM%20Notice%20to%20Airmen%20Developer%20Portal%20UI%20Prototype.png)**  
     **FAA NOTAM Developer Portal UI Prototype** – Delivered a functional prototype for a key aviation information system, focusing on user workflow and data presentation.
-*   **[`1st-Angular11-LiveLandScapes UI Fixes.png`](./1st-Angular11-LiveLandScapes%20UI%20Fixes.png)**  
+*   **[`1st-Angular11-LiveLandScapes UI Fixes.png`](./1st-Angular11%20-LiveLandScapes%20UI%20Fixes.png)**  
     **LiveLandScapes UI Fixes** – Rapidly resolved UI inconsistencies and bugs to enhance application stability and user experience.
 *   **[`1st-Angular11-LiveLandScapes Part 2 Angular Prototype.png`](./1st-Angular11-LiveLandScapes%20Part%202%20Angular%20Prototype.png)**  
     **LiveLandScapes Part 2 Angular Prototype** – Built an interactive prototype for a complex landscape design application module.
