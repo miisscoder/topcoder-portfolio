@@ -29,7 +29,7 @@
     **NorthStar Angular App Prototype Conversion** – Executed a high-fidelity conversion of design specifications into a fully functional Angular prototype.
 
 ### 🥈 Second Place Awards
-*   **`2nd-Angular1-Supplier Portal - My Invoice Status & Order Status & Forecast Reporting`**  
+*   **[`2nd-Angular1-Supplier Portal - My Invoice Status & Order Status & Forecast Reporting`](./2nd-Angular1-Supplier%20Portal%20-%20My%20Invoice%20Status%20&%20Order%20Status%20&%20Forecast%20Report.png)**  
     **ABB Supplier Portal Modules** – Developed UI prototypes for invoice status, order tracking, and forecast reporting in an enterprise supplier portal.
 *   **[`2nd-Angular7-Dragonet - Worksheet Angular UI Prototype Challenge.png`](./2nd-Angular7-Dragonet%20-%20Worksheet%20Angular%20UI%20Prototype%20Challenge.png)**  
     **Dragonet Worksheet UI Prototype** – Created a dynamic, interactive worksheet interface to handle complex user input and data display.
